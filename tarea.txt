@@ -1,0 +1,25 @@
+Tarea:
+Imagina a Sofía, una mesera que quiere una herramienta sencilla para calcular rápidamente la propina de sus clientes. A menudo, los clientes le preguntan cuánto es el 15% o el 20% de su cuenta. Para hacer su trabajo más eficiente, Sofía necesita una aplicación que le permita ingresar el monto de la cuenta y, con solo un clic, ver cuánto sería la propina y el total a pagar. Crear dicha aplicación en React.
+
+ 
+
+Requisitos Funcionales
+La aplicación debe permitir a los usuarios:
+
+Ingresar el total de la cuenta: Un campo de entrada de texto (input) para escribir el monto de la factura.
+
+Seleccionar un porcentaje de propina: Opciones para elegir diferentes porcentajes, como 10%, 15% y 20%.
+
+Ver los resultados: Mostrar la cantidad de propina y el total final de la cuenta de forma clara y visible.
+
+ 
+
+Criterios:
+
+El diseño del formulario quedará a su criterio.
+Debe contener validaciones.
+Debe utilizar alertas (Puede utilizar las que hemos visto en clase o la que ud desee), No se permite el uso de la función alert() nativa del navegador.
+Debe utilizar Tailwind para el diseño del formulario.
+ 
+
+Una vez que hayan terminado su proyecto y se aseguren de que el programa se ejecuta y muestra la información correctamente, deberán subirlo a un repositorio de GitHub. Asegúrense de que el repositorio sea Público, esto es esencial para que pueda acceder a su código y calificarlo. Si lo configuran como privado, no podré revisarlo. Finalmente, adjuntar la URL de su repositorio de GitHub.
